@@ -1,5 +1,4 @@
-def main():
-    print("Chess game starting...")
+from visual_board import main as visual_main
 
 if __name__ == "__main__":
-    main()
+    visual_main()
